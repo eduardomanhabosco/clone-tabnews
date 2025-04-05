@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Luannnnnn </h1>
+    return <h1> Pagina teste Eduardo </h1>
 }
 
 
